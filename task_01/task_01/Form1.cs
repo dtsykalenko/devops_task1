@@ -140,6 +140,10 @@ namespace task_01
             if (labelNumber.Text.IndexOf("∞") != -1)
                 labelNumber.Text = labelNumber.Text.Substring(0, labelNumber.Text.Length - 1);
 
+            //на экране NaN - не даёт писать цифры после него
+            if (labelNumber.Text.IndexOf(Convert.ToString(double.NaN)) != -1)
+                labelNumber.Text = labelNumber.Text.Substring(0, labelNumber.Text.Length - 1);
+
             //ситуация: слева ноль, а после него НЕ запятая, тогда ноль можно удалить
             if (labelNumber.Text[0] == '0' && (labelNumber.Text.IndexOf(",") != 1))
                 labelNumber.Text = labelNumber.Text.Remove(0, 1);

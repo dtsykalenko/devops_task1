@@ -19,3 +19,14 @@ D:\EDU 2022\DevOps\Task_1\task_01\task_01\obj\Debug\task_01.csproj.GenerateResou
 D:\EDU 2022\DevOps\Task_1\task_01\task_01\obj\Debug\task_01.csproj.CoreCompileInputs.cache
 D:\EDU 2022\DevOps\Task_1\task_01\task_01\obj\Debug\task_01.exe
 D:\EDU 2022\DevOps\Task_1\task_01\task_01\obj\Debug\task_01.pdb
+C:\Users\Андрей\source\repos\devops_task1\task_01\task_01\bin\Debug\task_01.exe.config
+C:\Users\Андрей\source\repos\devops_task1\task_01\task_01\bin\Debug\task_01.exe
+C:\Users\Андрей\source\repos\devops_task1\task_01\task_01\bin\Debug\task_01.pdb
+C:\Users\Андрей\source\repos\devops_task1\task_01\task_01\obj\Debug\task_01.csproj.AssemblyReference.cache
+C:\Users\Андрей\source\repos\devops_task1\task_01\task_01\obj\Debug\task_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\source\repos\devops_task1\task_01\task_01\obj\Debug\task_01.Form1.resources
+C:\Users\Андрей\source\repos\devops_task1\task_01\task_01\obj\Debug\task_01.Properties.Resources.resources
+C:\Users\Андрей\source\repos\devops_task1\task_01\task_01\obj\Debug\task_01.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\devops_task1\task_01\task_01\obj\Debug\task_01.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\devops_task1\task_01\task_01\obj\Debug\task_01.exe
+C:\Users\Андрей\source\repos\devops_task1\task_01\task_01\obj\Debug\task_01.pdb
